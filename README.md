@@ -1,6 +1,6 @@
 # Metodo di Jacobi
 
-Il metodo di Jacobi è un algoritmo iterativo per la risoluzione di sistemi lineari del tipo $Ax = b$ dove $A \in \mathbb{R}^{(n \times n)}$ e $b \in \mathbb{R}^n$.
+Il metodo di [Jacobi](https://it.wikipedia.org/wiki/Carl_Jacobi) è un algoritmo iterativo per la risoluzione di sistemi lineari del tipo $Ax = b$ dove $A \in \mathbb{R}^{(n \times n)}$ e $b \in \mathbb{R}^n$.
 
 ## Idea generale 
 
